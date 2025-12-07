@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/xT1R9YXGgI8fIWeVmg/giphy.gif" width="100%" alt="anime banner">
-</p>
+![todoroki](https://media.tenor.com/MbgBSPFFn3QAAAAM/todoroki-my-hero-academia.gif)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=480&lines=+Analisis+Mood+Temen" alt="Typing SVG" />
@@ -22,8 +20,6 @@
 
 ---
 
----
-
 ## Gambaran Umum
 
 **Mood Temen** adalah sistem dinamis/web-based sederhana berbasis **Flask** yang menunjukkan perbedaan antara:
@@ -31,7 +27,7 @@
 - kode **Before** (1 file besar, tidak modular)  
 - kode **After** (clean code, modular, reusable)
 
-```Proyek ini dibuat untuk memperlihatkan bagaimana **refactoring** dan **separation of concerns** dapat meningkatkan kualitas kode bahkan ketika topiknya sesederhana menebak mood teman 😆  
+Proyek ini dibuat untuk memperlihatkan bagaimana **refactoring** dan **separation of concerns** dapat meningkatkan kualitas kode bahkan ketika topiknya sesederhana menebak mood teman 😆  
 
 ---
 
