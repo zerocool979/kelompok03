@@ -1,5 +1,4 @@
-![todoroki](https://media.tenor.com/MbgBSPFFn3QAAAAM/todoroki-my-hero-academia.gif)
-
+![gambar](https://i.pinimg.com/736x/b7/31/26/b7312644e40d0355303f0889cf6fb6d3.jpg)
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=480&lines=+Analisis+Mood+Temen" alt="Typing SVG" />
 </h1>
