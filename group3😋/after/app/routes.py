@@ -1,11 +1,11 @@
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, request, jsonify, render_template
 from .models import assess
 
 main = Blueprint("main", __name__)
 
 @main.route("/")
 def index():
-    return "👫 Mood Temen Analyzer"
+    return render_template("dashboard.html")
 
 @main.route("/mood", methods=["POST"])
 def mood():
